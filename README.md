@@ -5,3 +5,5 @@
 🎯 Strengths: Creativity, problem-solving skills, organizational talent, and an eye for detail.
 
 📚 Motivation: Always striving to develop new skills and grow within the IT industry.
+
+📫 How to reach me caryensong@googlemail.com
