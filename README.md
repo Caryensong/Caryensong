@@ -28,7 +28,8 @@ Connect with me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://img.icons8.com/ios/50/000000/adobe-indesign.svg" alt="InDesign" width="40" height="40"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/adobe-indesign.png" alt="InDesign" width="40" height="40"/>
+
 
 
 </p>
